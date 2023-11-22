@@ -1,7 +1,7 @@
 # NCAA-Basketball-Player-Predictions-
 Predicting NCAA player performance through data mining 
 
-**1. [ ] Data Collection:**
+**1. Data Collection:**
    - Obtain a comprehensive dataset that includes historical statistics, player information, and team performance for the specified years.
 
 **2. Data Preprocessing:**
