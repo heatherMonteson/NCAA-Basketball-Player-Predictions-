@@ -1,5 +1,4 @@
-# NCAA-Basketball-Player-Predictions-
-Predicting NBA draft picks of NCAA players through data mining 
+## Predicting NBA draft picks of NCAA players through data mining 
 
 **1. Data Collection:**
    - https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021
