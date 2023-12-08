@@ -5,10 +5,10 @@ Predicting NCAA player performance through data mining
    - Obtain a comprehensive dataset that includes historical statistics, player information, and team performance for the specified years.
 
 **2. Data Preprocessing:**
-   - **Data Cleaning:** Handle missing values, outliers, and errors in the dataset.
-   - **Feature Selection:** Identify the most relevant features for predicting player performance. This could include player statistics (e.g., points per game, rebounds, assists), team statistics, and other relevant factors.
-   - **Feature Engineering:** Create new features that might be useful for prediction, such as player efficiency rating, shooting percentages, and more.
-   - **Data Transformation:** Normalize or scale the data if necessary.
+   - [ ] **Data Cleaning:** Handle missing values, outliers, and errors in the dataset.
+   - [ ] **Feature Selection:** Identify the most relevant features for predicting player performance. This could include player statistics (e.g., points per game, rebounds, assists), team statistics, and other relevant factors.
+   - [ ] **Feature Engineering:** Create new features that might be useful for prediction, such as player efficiency rating, shooting percentages, and more.
+   - [ ] **Data Transformation:** Normalize or scale the data if necessary.
 
 **3. Exploratory Data Analysis (EDA):**
    - Visualize the data to gain insights into player and team performance trends over the years.
@@ -41,8 +41,8 @@ Predicting NCAA player performance through data mining
 **12. Iterate and Refine:**
     - If the model's performance is not satisfactory, consider refining the features, trying different models, or gathering more data.
 
-**13. Deployment:**
+**13. [ ] Deployment:**
     - If your model performs well, you can deploy it to make predictions on new data.
 
-**14. Continuous Monitoring:**
+**14. [ ] Continuous Monitoring:**
     - Keep the model updated with the latest data to ensure its predictions remain accurate over time.
