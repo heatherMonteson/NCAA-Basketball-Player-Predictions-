@@ -64,8 +64,8 @@ Thus, by combining various data mining techniques for this project, we aimed to 
 **10. Conclusion:**
 - Better performance seen with the model and k-fold cross validation
 - Made significant improvements from initial performance, however precision, recall and f1 still remained relatively low for both methods
-- Unbalanced data
-- Not all players with good stats apply to the draft 
+-- Unbalanced data
+-- Not all players with good stats apply to the draft 
 - Best predictions were made with aggregate features. All/many skills are considered and important, may be harder for a player to pinpoint one skill to improve upon aside from their average points made per game. 
 - Could provide a recruiter with insight into what data to focus on when determining players to potentially pick for the draft
 
