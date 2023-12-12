@@ -1,5 +1,5 @@
 ## Predicting NBA draft picks of NCAA players through data mining 
-#About 
+# About 
 Our project aimed to combine various data mining techniques to predict prospective NBA draft picks from NCAA players. Making such classifications has the potential to support NBA teams in their decision-making process for draft picks as they can easily narrow down potential players based on their past season performance, or even see what players may be outside of the typical draft selection, and thus give the team better odds of being the first to select that player in the draft. 
 
 Beyond supporting draft decisions in the NBA, our project could also potentially provide valuable insights for players aspiring to enter the draft as it can give them the ability to weigh their own performance metrics against others who have been drafted in the past, and thus help to identify areas in that players performance that, if improved upon, may increase their chances of being drafted.
